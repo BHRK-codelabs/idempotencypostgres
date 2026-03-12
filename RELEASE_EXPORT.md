@@ -1,4 +1,4 @@
-# $ModuleName release export
+# idempotencypostgres release export
 
 This directory was generated from the incubation workspace.
 

@@ -1,0 +1,11 @@
+name: idempotencypostgres
+module: github.com/BHRK-codelabs/idempotencypostgres
+type: adapter
+status: incubating
+initial_version: v0.1.0
+repo_name: idempotencypostgres
+tag_prefix: v
+publish: true
+dependencies:
+  - github.com/BHRK-codelabs/corekit
+  - github.com/BHRK-codelabs/idempotencykit
